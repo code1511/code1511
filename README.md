@@ -1,16 +1,19 @@
-### Hi there 👋
-
+### <h1> Hello 👋 This is Anchal Pandey.</h1>
+<h4>I am a software developer</h4>
+<p>
+- 🔭 I’m currently working on React based project <br>
+- 🌱 I’m currently learning Shell Programming <br>
+- 👯 I’m looking to collaborate on React projects. <br>
+- 💬 Ask me about web developement, C++, Javascript.<br>
+- 📫 How to reach me:anchal2000pandey@gmail.com</p>
 <!--
 **code1511/code1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on React based project
+- 🌱 I’m currently learning Shell Programming
+- 👯 I’m looking to collaborate on React projects.
+- 💬 Ask me about web developement, C++, Javascript.
+- 📫 How to reach me:anchal2000pandey@gmail.com
 -->
