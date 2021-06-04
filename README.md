@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning Shell Programming <br>
 - 👯 I’m looking to collaborate on React projects. <br>
 - 💬 Ask me about web developement, C++, Javascript.<br>
-- 📫 How to reach me:anchal2000pandey@gmail.com</p>
+- 📫 Reach me:
+   <a>anchal2000pandey@gmail.com</a>
 <!--
 **code1511/code1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
