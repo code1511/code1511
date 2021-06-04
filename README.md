@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on React projects. <br>
 - 💬 Ask me about web developement, C++, Javascript.<br>
 - 📫 Reach me:
-   <a href="anchal2000pandey@gmail.com">anchal2000pandey@gmail.com</a>
+  <h4><a href="mailto:anchal2000pandey@gmail.com">anchal2000pandey@gmail.com</a></h4>
 <!--
 **code1511/code1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
