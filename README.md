@@ -1,4 +1,4 @@
-### <h1> Hello 👋 This is Anchal Pandey.</h1>
+### <h1> Hello 👋 </h1>
 <h4>I am a software developer</h4>
 <p>
 - 🔭 I’m currently working on React based project <br>
