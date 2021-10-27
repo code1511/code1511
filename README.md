@@ -2,6 +2,16 @@
   Hi there 👋 I'm Anchal 👩‍💻
 </h1>
 <h4 align ="center">I am a software developer from North India</h4>
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/anchal-p-908643b6/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/vats.15.11/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 <p>
 - 🔭 I’m currently working on React based project <br>
 - 🌱 I’m currently learning Shell Programming <br>
