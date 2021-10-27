@@ -32,6 +32,9 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
 <!-- <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> -->
+<br>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=code1511&theme=react-dark&hide_border=true&area=true)
   <h4><a href="https://leetcode.com/code1511/"> My leetcode handle</a></h4>
 <!--
 **code1511/code1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
