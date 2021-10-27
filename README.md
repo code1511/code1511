@@ -17,13 +17,13 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=code1511&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-<p>
+<p align="center">
 - 🔭 I’m currently working on React based project <br>
 - 🌱 I’m currently learning Shell Programming <br>
 - 👯 I’m looking to collaborate on React projects. <br>
 - 💬 Ask me about web developement, C++, Javascript.<br>
-- 📫 Reach me:
-  <h4><a href="mailto:anchal2000pandey@gmail.com">anchal2000pandey@gmail.com </a></h4>
+- 📫 Reach me:<a href="mailto:anchal2000pandey@gmail.com">anchal2000pandey@gmail.com </a>
+  
   <h4><a href="https://leetcode.com/code1511/"> My leetcode handle</a></h4>
 <!--
 **code1511/code1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
