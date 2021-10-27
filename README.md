@@ -15,11 +15,17 @@
   
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=code1511&show_icons=true&count_private=true&theme=dark" width="550"></a>
+<p>
+  <a align="left" href="https://github.com/code1511">
+    <img height="195px" width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code1511&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=false" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a align="right" href="https://github.com/code1511">
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=code1511&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&show_icons=true&count_private=true&layout=compact&hide_border=false" width="440"></a>
   <br/>
 </p>
 
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=code1511&theme=react-dark&hide_border=true&area=true)
  <br/> <br/>
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
@@ -35,8 +41,6 @@
 <code><img height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
 <!-- <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> -->
 <br>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=code1511&theme=react-dark&hide_border=true&area=true)
   <h4><a href="https://leetcode.com/code1511/"> My leetcode handle</a></h4>
 <!--
 **code1511/code1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
