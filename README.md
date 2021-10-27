@@ -17,10 +17,10 @@
 
 <p>
   <a align="left" href="https://github.com/code1511">
-    <img height="195px" width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code1511&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=false" />
+    <img height="195px" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code1511&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=false" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a align="right" href="https://github.com/code1511">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=code1511&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&show_icons=true&count_private=true&layout=compact&hide_border=false" width="440"></a>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=code1511&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&show_icons=true&count_private=true&layout=compact&hide_border=false" width="420"></a>
   <br/>
 </p>
 
