@@ -1,5 +1,7 @@
-### <h1> Hello 👋 </h1>
-<h4>I am a software developer</h4>
+<h1 align='center'>
+  Hi there 👋 I'm Anchal 👩‍💻
+</h1>
+<h4 align ="center">I am a software developer from North India</h4>
 <p>
 - 🔭 I’m currently working on React based project <br>
 - 🌱 I’m currently learning Shell Programming <br>
