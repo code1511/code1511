@@ -24,18 +24,21 @@
   <br/>
 </p>
 
-<!--Current steak-->
-<p align="center" margin-left="6px">
-  <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code1511&theme=dark&hide_border=true"/>
-  </a>
-</p>
 <br/>
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=code1511&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/code1511)
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=code1511&theme=react-dark&hide_border=true&area=true)
- <br/> <br/>
+ <br/>
+ 
+ <!--Current steak-->
+<p align="center" margin-left="6px">
+  <a>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code1511&theme=dark&hide_border=true"/>
+  </a>
+</p>
+
+ <br/>
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
 <br/>
