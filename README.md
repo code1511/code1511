@@ -24,6 +24,14 @@
   <br/>
 </p>
 
+<!--Current steak-->
+<p align="center">
+  <a>
+    <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code1511&theme=dark&hide_border=true"/>
+    <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
+  </a>
+</p>
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=code1511&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/code1511)
 
